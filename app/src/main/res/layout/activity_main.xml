@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity.MainActivity">
+
+    <ImageView
+        android:id="@+id/image_ble"
+        android:layout_width="453dp"
+        android:layout_height="543dp"
+        android:contentDescription="@string/logo_scan_ble"
+        android:src="@drawable/connect"
+        app:layout_constraintBottom_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/image_ble"
+        app:layout_constraintVertical_bias="0.3" />
+
+
+    <Button
+        android:id="@+id/commande_internet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/commande_internet"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/image_ble"
+        app:layout_constraintBottom_toBottomOf="parent"
+
+        />
+    <Button
+        android:id="@+id/scan_periph"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/scan_periph"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/commande_internet"
+
+        />
+
+    <Button
+        android:id="@+id/prerequis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/prerequis"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="@id/commande_internet"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/image_ble"
+        app:layout_constraintVertical_bias="0.634"
+        android:background="@color/black"
+       />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Scan BLE ESEO</string>
+    <string name="logo_eseo">logo_eseo</string>
+    <string name="texte_accueil">Bienvenue dans l\'application Scan BLE ESEO \n Appuyez pour démarrer le scan  Bluetooth</string>
+    <string name="logo_ble">logo_ble</string>
+    <string name="logo_scan_ble">logo_scan_ble</string>
+    <string name="commande_internet">Commander via internet</string>
+    <string name="scan_periph">Scanner les périphériques</string>
+    <string name="permission_loca_refusee">Nous voudrons acceder à la localisation et permettre le scan Bluetooth sans quoi l\'action demandée sera impossible</string>
+    <string name="activer_loca">Activer la localisation</string>
+    <string name="permission_scan_refusee">Nous voudrons acceder au Bluetooth et permettre le scan sans quoi l\'action demandée sera impossible</string>
+    <string name="activer_le_bluetooth">Activer le Bluetooth</string>
+    <string name="scan_ended">Scan terminé</string>
+    <string name="not_compatible">Non compatible</string>
+    <string name="lancer_le_scan">Lancer le scan</string>
+    <string name="deconnexion">Déconnexion</string>
+    <string name="toggle_led">Toggle LED</string>
+    <string name="uuid_not_found">UUID NOT FOUND</string>
+    <string name="not_connected">NOT CONNECTED</string>
+    <string name="connected_to">"Connecter à "</string>
+    <string name="enable_ble_notifications">Autoriser les notifications BLE</string>
+    <string name="notyet">Cette partie est en cours de développement ...</string>
+    <string name="before_scan">Avez-vous bien branché la carte ?</string>
+    <string name="before_scan1">Avant de lancer le scan, veuillez vous assurer que la Raspberry Pi est bien connecté à internet. Sans quoi elle ne sera pas visible. Pour en savoir plus cliquez sur prérequis.</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="consigne">Munissez vous d\'un câble micrô USB et d\'un câble Ethernet et le tour est joué !</string>
+    <string name="prerequis">Prérequis pour bien démarrer</string>
+</resources>

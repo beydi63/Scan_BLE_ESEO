@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scan BLE ESEO</string>
+    <string name="logo_eseo">logo_eseo</string>
+    <string name="logo_ble">logo_ble</string>
+    <string name="texte_accueil">Welcome to the Scan BLE ESEO app \n Press to start Bluetooth scan</string>
+    <string name="logo_scan_ble">logo_scan_ble</string>
+    <string name="commande_internet">Control with internet</string>
+    <string name="scan_periph">Scanning devices</string>
+    <string name="permission_loca_refusee">We want to access the location and enable Bluetooth scanning otherwise the requested action will be impossible</string>
+    <string name="activer_loca">Enable localization</string>
+    <string name="permission_scan_refusee">We want to access the Bluetooth and enable the scan otherwise the requested action will be impossible</string>
+    <string name="activer_le_bluetooth">Enable Bluetooth</string>
+    <string name="scan_ended">Scan completed</string>
+    <string name="not_compatible">Not compatible</string>
+    <string name="lancer_le_scan">Start the scan</string>
+    <string name="deconnexion">Disconnect</string>
+    <string name="toggle_led">Toggle LED</string>
+    <string name="uuid_not_found">UUID NOT FOUND</string>
+    <string name="not_connected">NOT CONNECTED</string>
+    <string name="connected_to">"Connect to "</string>
+    <string name="enable_ble_notifications">Allow BLE notifications</string>
+    <string name="notyet">This part is currently under development...</string>
+    <string name="before_scan">Have you plugged in the card correctly?</string>
+    <string name="before_scan1">Before starting the scan, please make sure that the Raspberry Pi is connected to the internet. Otherwise it will not be visible. For more information click on requirements.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="consigne">Get a USB cable and an Ethernet cable and you\'re done!</string>
+    <string name="prerequis">Requirements to get started</string>
+</resources>

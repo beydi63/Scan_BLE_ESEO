@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scan BLE ESEO</string>
+    <string name="logo_eseo">logo_eseo</string>
+    <string name="notyet">Esta parte está en desarrollo ...</string>
+    <string name="texte_accueil">Bienvenido a la aplicación Scan BLE ESEO  Pulse para iniciar el escaneo Bluetooth</string>
+    <string name="logo_ble">logo_ble</string>
+    <string name="logo_scan_ble">logo_scan_ble</string>
+    <string name="commande_internet">Control con Internet</string>
+    <string name="scan_periph">Dispositivos de escaneado</string>
+    <string name="permission_loca_refusee">Queremos acceder a la ubicación y activar el escaneo Bluetooth, de lo contrario la acción solicitada será imposible</string>
+    <string name="activer_loca">Activar la localización</string>
+    <string name="permission_scan_refusee">Queremos acceder al Bluetooth y habilitar el escaneo de lo contrario la acción solicitada será imposible</string>
+    <string name="activer_le_bluetooth">Activar Bluetooth</string>
+    <string name="scan_ended">Escaneado finalizado</string>
+    <string name="not_compatible">No compatible</string>
+    <string name="lancer_le_scan">Iniciar el escaneado</string>
+    <string name="deconnexion">Desconecte</string>
+    <string name="toggle_led">LED de conmutación</string>
+    <string name="uuid_not_found">UUID NO RECOGIDO</string>
+    <string name="not_connected">NO CONECTADO</string>
+    <string name="connected_to">Conectar a</string>
+    <string name="enable_ble_notifications">Permitir notificaciones BLE</string>
+    <string name="before_scan">¿Has conectado la tarjeta correctamente?</string>
+    <string name="before_scan1">Antes de ejecutar el análisis, asegúrese de que la Raspberry Pi está conectada a Internet. De lo contrario, no será visible. Para más información, haga clic en requisitos previos.</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="consigne">Consigue un cable USB y un cable Ethernet y ¡listo!</string>
+    <string name="prerequis">Requisitos para un buen comienzo</string>
+</resources>
